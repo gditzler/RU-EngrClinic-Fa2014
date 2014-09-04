@@ -45,8 +45,6 @@ There are several great practices that all good engineers, researchers, and mana
 | Finals Week |  December 12-18, 2014 |
 | Fall Semester Concludes |  December 18, 2014  |
 
-
-**Accommodation for Disabilities**
-
+**Accommodation for Disabilities** <br>
 If you have a documented physical and/or learning disability, please feel free to inform me or the Center for Academic Success – CAS (director, Ms. Melissa Cox – <cox@rowan.edu>, or 256-4260) regarding what kind of accommodation you need to help you succeed in this class. While you are not required to disclose your disability to me, you must provide appropriate documentation to the CAS to receive official university assistance. All such requests will be held confidential to the extent possible.
 
