@@ -3,7 +3,7 @@ Rowan University  <br>
 College of Engineering <br> 
 Fall 2014 <br>
 Tuesday/Thursday 12:30-3:15PM <br>
-Location: [South Jersey Tech Park](http://www.rowan.edu/home/research/south-jersey-technology-park), Room 134
+Location: [South Jersey Tech Park](http://www.rowan.edu/home/research/south-jersey-technology-park), Room 134 <br>
 Required Texts: None
 
 This syllabus is specific to Gregory Ditzler's Jr/Sr clinic projects. Note that this syllabus is in *addition* to the [official syllabus](http://users.rowan.edu/~bakrania/PersonalPage/Smitesh_Bakrania,_Ph.D._files/syllabus.pdf) and [official grading scheme](http://users.rowan.edu/~bakrania/PersonalPage/Smitesh_Bakrania,_Ph.D._files/guidelines.pdf). 
