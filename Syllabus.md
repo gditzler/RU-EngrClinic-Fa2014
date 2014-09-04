@@ -1,4 +1,5 @@
 ![alt text](http://users.rowan.edu/~buckle22/images/RowanLogo2.jpg)
+
 **Junior/Senior Engineering Clinic** <br>
 Rowan University  <br>
 College of Engineering <br> 
