@@ -1,0 +1,7 @@
+# ipython 
+*.ipynb_checkpoints/
+
+# file types
+*.swp
+*.pyc
+
