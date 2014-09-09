@@ -1,6 +1,6 @@
 # About
 
-This repository will server as the course website for Gregory Ditzler's Fall 2014 Jr/Sr clinic at Rowan University. Students are expected to check for updates frequently. 
+This repository will serve as the course website for Gregory Ditzler's Fall 2014 Jr/Sr clinic at Rowan University. Students are expected to check for updates frequently. 
 
 # Helpful Links
 
