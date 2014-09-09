@@ -8,7 +8,7 @@ This repository will server as the course website for Gregory Ditzler's Fall 201
 * Using the SPPRL server ([link](https://github.com/gditzler/Miscellaneous-IPython-Notebooks/blob/master/SPPRL-Server.md))
 * Setting up an IPython server ([link](http://ipython.org/ipython-doc/1/interactive/public_server.html]))
 * Brief Bash tutorial ([link](http://nbviewer.ipython.org/github/gditzler/bio-course-materials/blob/master/notebooks/Bash-Tutorial.ipynb))
-
+* Data Mining Algorithms ([link](http://nbviewer.ipython.org/github/gditzler/RU-EngrClinic-Fa2014/blob/master/DataMiningAlgorithms.ipynb))
 
 # Contact 
 
