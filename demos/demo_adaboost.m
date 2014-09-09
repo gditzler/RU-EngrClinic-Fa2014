@@ -3,7 +3,7 @@
 %
 % By: Gregory Ditzler (gregory.ditzler@gmail.com)
 
-% best tree lines to start a program with!
+% best three lines to start a program with!
 clc;
 clear;
 close all;
